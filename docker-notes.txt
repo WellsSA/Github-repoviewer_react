@@ -3,3 +3,7 @@
 ++ Dependencies
 
 -- React-router-DOM para estabelecer rotas no front-end
+-- Styled-components para definir escopos de estilização
+-- React-icons pacotes de icones mais famosos
+-- Axios para fazer requisições à APIs REST
+-- Prop-types para validação de Props
